@@ -6,7 +6,9 @@ PDF files will be downloaded to the same directory of the script.
 HowTo
 -----
 1- Download file 'oreilly-free-download-ebooks.ps1'
+
 2- Open dowloaded file with Windows Powershell ISE
+
 3- Execute script
 
 Remarks
